@@ -33,7 +33,6 @@ public class SolutionString {
 		//Suma de impares
 		int sum = Arrays.stream(imparesList).sum();
 		System.out.println(sum);
-
 	}
 }
 
